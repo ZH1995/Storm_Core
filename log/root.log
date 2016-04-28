@@ -1,0 +1,888 @@
+[2016-04-03 15:59:06,536](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 15:59:06,538](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 15:59:06,538](INFO)SQL : 进入fetch_all方法
+[2016-04-03 15:59:06,538](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 15:59:06,776](INFO)SQL : 退出fetch_all方法
+[2016-04-03 15:59:06,776](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 15:59:06,776](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 15:59:06,851](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 15:59:06,851](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 15:59:06,851](INFO)media_list : 进入get_media_list方法
+[2016-04-03 15:59:06,851](INFO)SQL : 进入fetch_all方法
+[2016-04-03 15:59:06,851](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 15:59:06,855](INFO)SQL : 退出fetch_all方法
+[2016-04-03 15:59:06,855](INFO)media_list : 退出get_media_list方法
+[2016-04-03 15:59:06,855](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 15:59:38,368](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 15:59:38,369](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 15:59:38,369](INFO)SQL : 进入fetch_all方法
+[2016-04-03 15:59:38,369](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 15:59:38,380](INFO)SQL : 退出fetch_all方法
+[2016-04-03 15:59:38,380](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 15:59:38,380](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 15:59:38,387](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 15:59:38,387](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 15:59:38,387](INFO)media_list : 进入get_media_list方法
+[2016-04-03 15:59:38,387](INFO)SQL : 进入fetch_all方法
+[2016-04-03 15:59:38,387](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 15:59:38,388](INFO)SQL : 退出fetch_all方法
+[2016-04-03 15:59:38,388](INFO)media_list : 退出get_media_list方法
+[2016-04-03 15:59:38,388](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 15:59:58,798](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 15:59:58,799](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 15:59:58,799](INFO)SQL : 进入fetch_all方法
+[2016-04-03 15:59:58,799](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 15:59:58,802](INFO)SQL : 退出fetch_all方法
+[2016-04-03 15:59:58,803](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 15:59:58,803](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 15:59:58,809](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 15:59:58,809](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 15:59:58,809](INFO)media_list : 进入get_media_list方法
+[2016-04-03 15:59:58,809](INFO)SQL : 进入fetch_all方法
+[2016-04-03 15:59:58,809](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 15:59:58,813](INFO)SQL : 退出fetch_all方法
+[2016-04-03 15:59:58,813](INFO)media_list : 退出get_media_list方法
+[2016-04-03 15:59:58,813](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:00:06,888](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:00:06,888](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:00:06,888](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:00:06,888](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:00:06,891](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:00:06,891](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:00:06,891](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:00:06,898](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:00:06,898](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:00:06,898](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:00:06,898](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:00:06,898](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:00:06,901](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:00:06,901](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:00:06,901](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:02:10,503](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:02:10,503](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:02:10,503](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:02:10,503](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:02:10,509](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:02:10,509](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:02:10,509](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:02:10,513](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:02:10,513](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:02:10,513](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:02:10,513](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:02:10,513](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:02:10,517](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:02:10,517](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:02:10,517](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:02:46,503](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:02:46,503](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:02:46,503](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:02:46,503](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:02:46,510](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:02:46,510](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:02:46,510](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:02:46,516](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:02:46,516](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:02:46,516](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:02:46,517](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:02:46,517](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:02:46,519](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:02:46,519](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:02:46,520](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:03:56,717](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:03:56,717](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:03:56,717](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:03:56,717](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:03:56,720](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:03:56,720](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:03:56,720](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:03:56,723](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:03:56,724](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:03:56,724](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:03:56,724](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:03:56,724](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:03:56,726](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:03:56,726](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:03:56,726](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:04:20,857](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:04:20,858](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:04:20,858](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:04:20,858](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:04:20,861](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:04:20,861](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:04:20,861](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:04:20,865](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:04:20,865](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:04:20,865](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:04:20,865](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:04:20,867](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:04:20,868](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:04:20,868](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:04:20,868](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:05:58,381](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:05:58,381](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:05:58,381](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:05:58,381](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:05:58,382](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:05:58,382](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:05:58,384](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:05:58,388](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:05:58,388](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:05:58,388](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:05:58,388](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:05:58,388](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:05:58,391](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:05:58,391](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:05:58,391](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:06:15,848](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:06:15,848](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:06:15,848](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:06:15,848](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:06:15,852](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:06:15,852](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:06:15,852](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:06:15,858](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:06:15,858](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:06:15,858](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:06:15,858](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:06:15,858](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:06:15,861](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:06:15,861](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:06:15,861](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:06:43,177](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:06:43,177](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:06:43,177](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:06:43,177](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:06:43,180](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:06:43,180](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:06:43,180](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:06:43,187](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:06:43,187](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:06:43,187](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:06:43,187](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:06:43,187](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:06:43,190](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:06:43,190](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:06:43,190](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:07:00,561](INFO)registerMediaHandler : 进入loginMediaHandler
+[2016-04-03 16:07:00,561](INFO)registerMediaHandler : argument = {u'nick_name': u'111111', u'user_name': u'111111', u'user_pass': u'1111111'}
+[2016-04-03 16:07:00,561](INFO)loginMedia : 进入judge_exist_user方法
+[2016-04-03 16:07:00,561](INFO)SQL : 进入fetch_one方法
+[2016-04-03 16:07:00,934](INFO)SQL : 退出fetch_one方法
+[2016-04-03 16:07:00,936](INFO)loginMedia : 进入add_user方法
+[2016-04-03 16:07:00,936](INFO)SQL : 进入excute_one方法
+[2016-04-03 16:07:01,088](INFO)SQL : 退出excute_one方法
+[2016-04-03 16:07:01,089](INFO)loginMedia : 退出add_user方法
+[2016-04-03 16:07:01,089](INFO)loginMedia : 进入judge_exist_user方法
+[2016-04-03 16:07:01,089](INFO)SQL : 进入fetch_one方法
+[2016-04-03 16:07:01,101](INFO)SQL : 退出fetch_one方法
+[2016-04-03 16:07:01,101](INFO)loginMedia : 退出judge_exist_user方法
+[2016-04-03 16:07:01,101](INFO)registerMediaHandler : 退出loginMediaHandler
+[2016-04-03 16:07:01,134](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:07:01,134](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:07:01,134](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:07:01,134](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:07:01,135](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:07:01,135](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:07:01,135](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:07:01,141](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:07:01,141](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:07:01,141](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:07:01,141](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:07:01,141](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:07:01,145](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:07:01,145](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:07:01,147](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:14:54,576](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:14:54,578](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:14:54,578](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:14:54,578](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:14:54,585](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:14:54,585](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:14:54,585](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:14:54,589](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:14:54,589](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:14:54,589](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:14:54,589](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:14:54,589](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:14:54,595](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:14:54,595](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:14:54,595](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:14:58,907](INFO)mediaContentHandler : 进入mediaContentHandler
+[2016-04-03 16:14:58,907](INFO)mediaContentHandler : argument = {u'media_id': 10}
+[2016-04-03 16:14:58,907](INFO)media_content : 进入increase_click_num
+[2016-04-03 16:14:58,907](INFO)SQL : 进入excute_one方法
+[2016-04-03 16:14:59,148](INFO)SQL : 退出excute_one方法
+[2016-04-03 16:14:59,150](INFO)media_content : 退出increase_click_num
+[2016-04-03 16:14:59,150](INFO)media_content : 进入get_media_content方法
+[2016-04-03 16:14:59,150](INFO)SQL : 进入fetch_one方法
+[2016-04-03 16:14:59,155](INFO)SQL : 退出fetch_one方法
+[2016-04-03 16:14:59,157](INFO)media_content : 退出get_media_content方法
+[2016-04-03 16:14:59,157](INFO)mediaContentHandler : ftp://ygdy8:ygdy8@y219.dydytt.net:9066/[阳光电影www.ygdy8.com].叶问3.BD.720p.国粤双语中字.mkv
+[2016-04-03 16:14:59,157](INFO)mediaContentHandler : 退出mediaContentHandler
+[2016-04-03 16:15:04,601](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:15:04,602](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:15:04,602](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:15:04,602](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:15:04,604](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:15:04,605](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:15:04,605](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:15:04,609](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:15:04,609](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:15:04,611](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:15:04,611](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:15:04,611](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:15:04,614](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:15:04,614](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:15:04,614](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:15:46,497](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:15:46,497](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:15:46,497](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:15:46,497](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:15:46,500](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:15:46,500](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:15:46,500](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:15:46,503](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:15:46,505](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:15:46,505](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:15:46,505](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:15:46,505](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:15:46,506](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:15:46,506](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:15:46,506](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:15:53,697](INFO)mediaContentHandler : 进入mediaContentHandler
+[2016-04-03 16:15:53,697](INFO)mediaContentHandler : argument = {u'media_id': 10}
+[2016-04-03 16:15:53,697](INFO)media_content : 进入increase_click_num
+[2016-04-03 16:15:53,697](INFO)SQL : 进入excute_one方法
+[2016-04-03 16:15:53,773](INFO)SQL : 退出excute_one方法
+[2016-04-03 16:15:53,773](INFO)media_content : 退出increase_click_num
+[2016-04-03 16:15:53,773](INFO)media_content : 进入get_media_content方法
+[2016-04-03 16:15:53,775](INFO)SQL : 进入fetch_one方法
+[2016-04-03 16:15:53,780](INFO)SQL : 退出fetch_one方法
+[2016-04-03 16:15:53,780](INFO)media_content : 退出get_media_content方法
+[2016-04-03 16:15:53,780](INFO)mediaContentHandler : ftp://ygdy8:ygdy8@y219.dydytt.net:9066/[阳光电影www.ygdy8.com].叶问3.BD.720p.国粤双语中字.mkv
+[2016-04-03 16:15:53,782](INFO)mediaContentHandler : 退出mediaContentHandler
+[2016-04-03 16:15:54,881](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:15:54,881](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:15:54,881](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:15:54,881](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:15:54,882](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:15:54,884](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:15:54,884](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:15:54,890](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:15:54,890](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:15:54,890](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:15:54,890](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:15:54,890](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:15:54,892](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:15:54,892](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:15:54,892](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:16:57,039](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:16:57,039](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:16:57,039](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:16:57,039](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:16:57,043](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:16:57,043](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:16:57,043](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:16:57,049](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:16:57,049](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:16:57,049](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:16:57,049](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:16:57,049](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:16:57,051](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:16:57,052](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:16:57,052](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:18:13,898](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:18:13,900](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:18:13,900](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:18:13,900](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:18:13,904](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:18:13,904](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:18:13,904](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:18:13,907](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:18:13,907](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:18:13,907](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:18:13,907](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:18:13,907](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:18:13,911](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:18:13,911](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:18:13,911](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:18:37,897](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:18:37,897](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:18:37,897](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:18:37,897](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:18:37,898](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:18:37,900](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:18:37,900](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:18:37,904](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:18:37,904](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:18:37,904](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:18:37,904](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:18:37,904](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:18:37,905](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:18:37,907](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:18:37,907](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:18:47,417](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:18:47,417](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:18:47,418](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:18:47,418](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:18:47,423](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:18:47,423](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:18:47,423](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:18:47,430](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:18:47,430](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:18:47,430](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:18:47,430](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:18:47,430](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:18:47,433](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:18:47,433](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:18:47,433](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:18:51,420](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:18:51,421](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:18:51,421](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:18:51,421](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:18:51,424](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:18:51,424](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:18:51,424](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:18:51,433](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:18:51,433](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:18:51,433](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:18:51,433](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:18:51,433](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:18:51,438](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:18:51,440](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:18:51,440](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:19:03,938](INFO)loginMediaHandler : 进入loginMediaHandler
+[2016-04-03 16:19:03,938](INFO)loginMediaHandler : argument = {u'user_name': u'nicaicaikan', u'user_pass': u'123456'}
+[2016-04-03 16:19:03,938](INFO)loginMedia : 进入judge_exist_user方法
+[2016-04-03 16:19:03,938](INFO)SQL : 进入fetch_one方法
+[2016-04-03 16:19:03,944](INFO)SQL : 退出fetch_one方法
+[2016-04-03 16:19:03,944](INFO)loginMedia : 退出judge_exist_user方法
+[2016-04-03 16:19:03,944](INFO)loginMediaHandler : 退出loginMediaHandler
+[2016-04-03 16:19:03,961](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-03 16:19:03,961](INFO)hot_media : 进入get_hot_media方法
+[2016-04-03 16:19:03,961](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:19:03,963](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-03 16:19:03,964](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:19:03,964](INFO)hot_media : 退出get_hot_media方法
+[2016-04-03 16:19:03,964](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-03 16:19:03,970](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-03 16:19:03,970](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-03 16:19:03,970](INFO)media_list : 进入get_media_list方法
+[2016-04-03 16:19:03,970](INFO)SQL : 进入fetch_all方法
+[2016-04-03 16:19:03,970](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-03 16:19:03,974](INFO)SQL : 退出fetch_all方法
+[2016-04-03 16:19:03,974](INFO)media_list : 退出get_media_list方法
+[2016-04-03 16:19:03,974](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-03 16:19:06,153](INFO)mediaContentHandler : 进入mediaContentHandler
+[2016-04-03 16:19:06,154](INFO)mediaContentHandler : argument = {u'media_id': 10}
+[2016-04-03 16:19:06,154](INFO)media_content : 进入increase_click_num
+[2016-04-03 16:19:06,154](INFO)SQL : 进入excute_one方法
+[2016-04-03 16:19:06,265](INFO)SQL : 退出excute_one方法
+[2016-04-03 16:19:06,265](INFO)media_content : 退出increase_click_num
+[2016-04-03 16:19:06,265](INFO)media_content : 进入get_media_content方法
+[2016-04-03 16:19:06,265](INFO)SQL : 进入fetch_one方法
+[2016-04-03 16:19:06,269](INFO)SQL : 退出fetch_one方法
+[2016-04-03 16:19:06,269](INFO)media_content : 退出get_media_content方法
+[2016-04-03 16:19:06,269](INFO)mediaContentHandler : ftp://ygdy8:ygdy8@y219.dydytt.net:9066/[阳光电影www.ygdy8.com].叶问3.BD.720p.国粤双语中字.mkv
+[2016-04-03 16:19:06,269](INFO)mediaContentHandler : 退出mediaContentHandler
+[2016-04-06 09:04:29,115](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-06 09:04:29,134](INFO)hot_media : 进入get_hot_media方法
+[2016-04-06 09:04:29,134](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:04:29,134](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-06 09:04:29,499](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:04:29,499](INFO)hot_media : 退出get_hot_media方法
+[2016-04-06 09:04:29,500](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-06 09:04:29,519](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-06 09:04:29,519](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-06 09:04:29,519](INFO)media_list : 进入get_media_list方法
+[2016-04-06 09:04:29,519](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:04:29,519](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-06 09:04:29,526](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:04:29,526](INFO)media_list : 退出get_media_list方法
+[2016-04-06 09:04:29,526](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-06 09:04:43,519](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-06 09:04:43,519](INFO)hot_media : 进入get_hot_media方法
+[2016-04-06 09:04:43,519](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:04:43,519](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-06 09:04:43,529](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:04:43,529](INFO)hot_media : 退出get_hot_media方法
+[2016-04-06 09:04:43,529](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-06 09:04:43,533](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-06 09:04:43,535](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-06 09:04:43,535](INFO)media_list : 进入get_media_list方法
+[2016-04-06 09:04:43,535](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:04:43,535](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-06 09:04:43,536](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:04:43,536](INFO)media_list : 退出get_media_list方法
+[2016-04-06 09:04:43,536](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-06 09:06:30,658](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-06 09:06:30,660](INFO)hot_media : 进入get_hot_media方法
+[2016-04-06 09:06:30,660](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:06:30,660](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-06 09:06:30,664](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:06:30,664](INFO)hot_media : 退出get_hot_media方法
+[2016-04-06 09:06:30,664](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-06 09:06:30,668](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-06 09:06:30,668](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-06 09:06:30,668](INFO)media_list : 进入get_media_list方法
+[2016-04-06 09:06:30,668](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:06:30,668](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-06 09:06:30,674](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:06:30,674](INFO)media_list : 退出get_media_list方法
+[2016-04-06 09:06:30,674](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-06 09:11:37,446](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-06 09:11:37,453](INFO)hot_media : 进入get_hot_media方法
+[2016-04-06 09:11:37,453](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:11:37,454](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-06 09:11:37,473](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:11:37,473](INFO)hot_media : 退出get_hot_media方法
+[2016-04-06 09:11:37,473](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-06 09:11:37,483](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-06 09:11:37,483](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-06 09:11:37,483](INFO)media_list : 进入get_media_list方法
+[2016-04-06 09:11:37,483](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:11:37,483](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-06 09:11:37,494](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:11:37,496](INFO)media_list : 退出get_media_list方法
+[2016-04-06 09:11:37,496](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-06 09:18:39,654](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-06 09:18:39,654](INFO)hot_media : 进入get_hot_media方法
+[2016-04-06 09:18:39,654](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:18:39,654](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-06 09:18:39,673](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:18:39,673](INFO)hot_media : 退出get_hot_media方法
+[2016-04-06 09:18:39,673](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-06 09:18:39,677](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-06 09:18:39,677](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-06 09:18:39,677](INFO)media_list : 进入get_media_list方法
+[2016-04-06 09:18:39,677](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:18:39,677](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-06 09:18:39,678](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:18:39,678](INFO)media_list : 退出get_media_list方法
+[2016-04-06 09:18:39,680](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-06 09:37:15,861](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-06 09:37:15,861](INFO)hot_media : 进入get_hot_media方法
+[2016-04-06 09:37:15,861](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:37:15,861](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-06 09:37:15,898](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:37:15,900](INFO)hot_media : 退出get_hot_media方法
+[2016-04-06 09:37:15,900](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-06 09:37:15,911](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-06 09:37:15,913](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-06 09:37:15,913](INFO)media_list : 进入get_media_list方法
+[2016-04-06 09:37:15,913](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:37:15,913](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-06 09:37:15,917](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:37:15,918](INFO)media_list : 退出get_media_list方法
+[2016-04-06 09:37:15,918](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-06 09:37:37,450](INFO)loginMediaHandler : 进入loginMediaHandler
+[2016-04-06 09:37:37,450](INFO)loginMediaHandler : argument = {u'user_name': u'zhanghe', u'user_pass': u'123456'}
+[2016-04-06 09:37:37,450](INFO)loginMedia : 进入judge_exist_user方法
+[2016-04-06 09:37:37,542](INFO)SQL : 进入fetch_one方法
+[2016-04-06 09:37:38,325](INFO)SQL : 退出fetch_one方法
+[2016-04-06 09:37:38,326](INFO)loginMediaHandler : 退出loginMediaHandler
+[2016-04-06 09:37:38,421](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-06 09:37:38,421](INFO)hot_media : 进入get_hot_media方法
+[2016-04-06 09:37:38,421](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:37:38,421](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-06 09:37:38,434](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:37:38,434](INFO)hot_media : 退出get_hot_media方法
+[2016-04-06 09:37:38,434](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-06 09:37:38,444](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-06 09:37:38,446](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-06 09:37:38,446](INFO)media_list : 进入get_media_list方法
+[2016-04-06 09:37:38,446](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:37:38,446](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-06 09:37:38,448](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:37:38,450](INFO)media_list : 退出get_media_list方法
+[2016-04-06 09:37:38,450](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-06 09:37:46,444](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-06 09:37:46,444](INFO)hot_media : 进入get_hot_media方法
+[2016-04-06 09:37:46,444](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:37:46,444](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-06 09:37:46,446](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:37:46,446](INFO)hot_media : 退出get_hot_media方法
+[2016-04-06 09:37:46,446](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-06 09:37:46,453](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-06 09:37:46,453](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-06 09:37:46,453](INFO)media_list : 进入get_media_list方法
+[2016-04-06 09:37:46,454](INFO)SQL : 进入fetch_all方法
+[2016-04-06 09:37:46,454](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-06 09:37:46,457](INFO)SQL : 退出fetch_all方法
+[2016-04-06 09:37:46,457](INFO)media_list : 退出get_media_list方法
+[2016-04-06 09:37:46,457](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-06 13:58:03,657](INFO)loginMediaHandler : 进入loginMediaHandler
+[2016-04-06 13:58:03,657](INFO)loginMediaHandler : argument = {u'user_name': u'zhanghe', u'user_pass': u'123456'}
+[2016-04-06 13:58:03,657](INFO)loginMedia : 进入judge_exist_user方法
+[2016-04-06 13:58:03,657](INFO)SQL : 进入fetch_one方法
+[2016-04-06 13:58:03,854](INFO)SQL : 退出fetch_one方法
+[2016-04-06 13:58:03,854](INFO)loginMediaHandler : 退出loginMediaHandler
+[2016-04-06 13:58:03,869](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-06 13:58:03,869](INFO)hot_media : 进入get_hot_media方法
+[2016-04-06 13:58:03,869](INFO)SQL : 进入fetch_all方法
+[2016-04-06 13:58:03,869](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-06 13:58:03,871](INFO)SQL : 退出fetch_all方法
+[2016-04-06 13:58:03,871](INFO)hot_media : 退出get_hot_media方法
+[2016-04-06 13:58:03,871](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-06 13:58:03,877](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-06 13:58:03,877](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-06 13:58:03,877](INFO)media_list : 进入get_media_list方法
+[2016-04-06 13:58:03,877](INFO)SQL : 进入fetch_all方法
+[2016-04-06 13:58:03,877](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-06 13:58:03,878](INFO)SQL : 退出fetch_all方法
+[2016-04-06 13:58:03,880](INFO)media_list : 退出get_media_list方法
+[2016-04-06 13:58:03,880](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-06 13:58:37,259](INFO)loginMediaHandler : 进入loginMediaHandler
+[2016-04-06 13:58:37,259](INFO)loginMediaHandler : argument = {u'user_name': u'nicaicaikan', u'user_pass': u'123456'}
+[2016-04-06 13:58:37,259](INFO)loginMedia : 进入judge_exist_user方法
+[2016-04-06 13:58:37,259](INFO)SQL : 进入fetch_one方法
+[2016-04-06 13:58:37,262](INFO)SQL : 退出fetch_one方法
+[2016-04-06 13:58:37,262](INFO)loginMedia : 退出judge_exist_user方法
+[2016-04-06 13:58:37,262](INFO)loginMediaHandler : 退出loginMediaHandler
+[2016-04-06 13:58:37,315](INFO)mediaHotHandler : 进入mediaHotHandler
+[2016-04-06 13:58:37,315](INFO)hot_media : 进入get_hot_media方法
+[2016-04-06 13:58:37,315](INFO)SQL : 进入fetch_all方法
+[2016-04-06 13:58:37,315](INFO)SQL : sql语句: sql=
+        SELECT picture, message_id, headline, tags
+        FROM info_message
+        ORDER BY click_num DESC
+        LIMIT 0, 4
+     
+[2016-04-06 13:58:37,316](INFO)SQL : 退出fetch_all方法
+[2016-04-06 13:58:37,316](INFO)hot_media : 退出get_hot_media方法
+[2016-04-06 13:58:37,316](INFO)mediaHotHandler : 退出mediaHotHandler
+[2016-04-06 13:58:37,321](INFO)mediaListHandler : 进入mediaListHandler
+[2016-04-06 13:58:37,321](INFO)mediaListHandler : arguments = {u'init_offset': 0, u'offset': 10}
+[2016-04-06 13:58:37,321](INFO)media_list : 进入get_media_list方法
+[2016-04-06 13:58:37,321](INFO)SQL : 进入fetch_all方法
+[2016-04-06 13:58:37,321](INFO)SQL : sql语句: sql=
+        SELECT message_id, headline, tags, picture
+        FROM info_message
+        ORDER BY message_id DESC
+        LIMIT 0, 10
+    
+[2016-04-06 13:58:37,322](INFO)SQL : 退出fetch_all方法
+[2016-04-06 13:58:37,322](INFO)media_list : 退出get_media_list方法
+[2016-04-06 13:58:37,322](INFO)mediaListHandler : 退出mediaListHandler
+[2016-04-06 13:58:42,910](INFO)mediaContentHandler : 进入mediaContentHandler
+[2016-04-06 13:58:42,910](INFO)mediaContentHandler : argument = {u'media_id': 10}
+[2016-04-06 13:58:42,910](INFO)media_content : 进入increase_click_num
+[2016-04-06 13:58:42,910](INFO)SQL : 进入excute_one方法
+[2016-04-06 13:58:43,176](INFO)SQL : 退出excute_one方法
+[2016-04-06 13:58:43,176](INFO)media_content : 退出increase_click_num
+[2016-04-06 13:58:43,176](INFO)media_content : 进入get_media_content方法
+[2016-04-06 13:58:43,176](INFO)SQL : 进入fetch_one方法
+[2016-04-06 13:58:43,236](INFO)SQL : 退出fetch_one方法
+[2016-04-06 13:58:43,253](INFO)media_content : 退出get_media_content方法
+[2016-04-06 13:58:43,253](INFO)mediaContentHandler : ftp://ygdy8:ygdy8@y219.dydytt.net:9066/[阳光电影www.ygdy8.com].叶问3.BD.720p.国粤双语中字.mkv
+[2016-04-06 13:58:43,253](INFO)mediaContentHandler : 退出mediaContentHandler
